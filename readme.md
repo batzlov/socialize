@@ -70,15 +70,6 @@ In der finalen Version der Applikation ist der Nutzer bspw. im Stande sich frei 
 ![erd-final](./docs/database/socialize-erd-final.png)
 
 ### Wireframes
-<!-- <img src="/Users/robert/Development/Studium/mobile-computing-1/socialize/docs/wireframes/1-Willkommen.png" width=30% height=30%>
-<img src="/Users/robert/Development/Studium/mobile-computing-1/socialize/docs/wireframes/2-Registrieren.png" width=30% height=30%>
-<img src="/Users/robert/Development/Studium/mobile-computing-1/socialize/docs/wireframes/3-Einloggen.png" width=30% height=30%>
-<img src="/Users/robert/Development/Studium/mobile-computing-1/socialize/docs/wireframes/4-Uebersicht.png" width=30% height=30%>
-<img src="/Users/robert/Development/Studium/mobile-computing-1/socialize/docs/wireframes/5-Orte.png" width=30% height=30%>
-<img src="/Users/robert/Development/Studium/mobile-computing-1/socialize/docs/wireframes/6-Menschen.png" width=30% height=30%>
-<img src="/Users/robert/Development/Studium/mobile-computing-1/socialize/docs/wireframes/7-Gruppen-Chat.png" width=30% height=30%>
-<img src="/Users/robert/Development/Studium/mobile-computing-1/socialize/docs/wireframes/8-Einzel-Chat.png" width=30% height=30%> -->
-
 ![wireframe-01](./docs/wireframes/1-Willkommen.png)
 ![wireframe-02](./docs/wireframes/2-Registrieren.png)
 ![wireframe-03](./docs/wireframes/3-Einloggen.png)
@@ -133,15 +124,6 @@ Die Corona Zeit und der Lockdown hat uns alle ein Stück einsamer gemacht. Wie d
 <br>
 
 ### Screenshots der fertigen Anwendung
-<!-- <img src="/Users/robert/Development/Studium/mobile-computing-1/socialize/docs/app-screenshots/01-signin.png" width=30% height=30%>
-<img src="/Users/robert/Development/Studium/mobile-computing-1/socialize/docs/app-screenshots/02-signup.png" width=30% height=30%>
-<img src="/Users/robert/Development/Studium/mobile-computing-1/socialize/docs/app-screenshots/03-home.png" width=30% height=30%>
-<img src="/Users/robert/Development/Studium/mobile-computing-1/socialize/docs/app-screenshots/04-locations.png" width=30% height=30%>
-<img src="/Users/robert/Development/Studium/mobile-computing-1/socialize/docs/app-screenshots/05-locations-search.png" width=30% height=30%>
-<img src="/Users/robert/Development/Studium/mobile-computing-1/socialize/docs/app-screenshots/06-chat.png" width=30% height=30%>
-<img src="/Users/robert/Development/Studium/mobile-computing-1/socialize/docs/app-screenshots/07-meet.png" width=30% height=30%>
-<img src="/Users/robert/Development/Studium/mobile-computing-1/socialize/docs/app-screenshots/08-settings.png" width=30% height=30%> -->
-
 ![screenshot-01](./docs/app-screenshots/01-signin.png)
 ![screenshot-01](./docs/app-screenshots/02-signup.png)
 ![screenshot-01](./docs/app-screenshots/03-home.png)
